@@ -1,4 +1,4 @@
-# Music App
+# Star wars app
 
 Simple app created with CRA.
 
